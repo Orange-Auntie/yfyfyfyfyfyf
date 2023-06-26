@@ -27,7 +27,7 @@ function draw() {
  image(clown_nose, nosex, nosey, 30, 30);
 }
 
-function take_snapchat(){
+function take_snapshot(){
     save('myFilterImage.png');
 }
 
